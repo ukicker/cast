@@ -1,0 +1,3 @@
+rootProject.name = "cast"
+include ':app'
+include ':ukicker-cast'
