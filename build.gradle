@@ -28,7 +28,6 @@ allprojects {
         maven { url  'https://repo1.maven.org/maven2/'}
         google()
         mavenCentral()
-        jcenter() // Warning: this repository is going to shut down soon
     }
 }
 
